@@ -1,53 +1,91 @@
-⚡ SOUTH BAY IT SOLUTIONS
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SOUTH+BAY+IT+SOLUTIONS;DIGITAL+MODERNIZATION;VETERAN+OWNED+%26+OPERATED" alt="SBITS Typing Header" />
+</p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DSOUTH%2BBAY%2BIT%2BSOLUTIONS%3BDIGITAL%2BMODERNIZATION%3BVETERAN%2BOWNED%2B%2526%2BOPERATED" alt="SBITS Typing Header" />
-</p>
-```text
- ██████╗ ██████╗ ██╗████████╗███████╗
-██╔════╝ ██╔══██╗██║╚══██╔══╝██╔════╝
-╚█████╗  ██████╔╝██║   ██║   ███████╗
- ╚═══██╗ ██╔══██╗██║   ██║   ╚════██║
-███████║ ██████╔╝██║   ██║   ███████║
-╚══════╝ ╚═════╝ ╚═╝   ╚═╝   ╚══════╝
+
+```
+ ███████╗██████╗ ██╗████████╗███████╗
+ ██╔════╝██╔══██╗██║╚══██╔══╝██╔════╝
+ ███████╗██████╔╝██║   ██║   ███████╗
+ ╚════██║██╔══██╗██║   ██║   ╚════██║
+ ███████║██████╔╝██║   ██║   ███████║
+ ╚══════╝╚═════╝ ╚═╝   ╚═╝   ╚══════╝
 ```
 
-🛠 Digital Modernization for Gov & Local Biz
+</p>
 
-South Bay IT Solutions (SBITS) is a Service-Disabled Veteran-Owned Small Business (SDVOSB) based in Chula Vista, CA. We bridge the gap between legacy hardware and modern software through military-grade discipline and local agility.
+<p align="center">
+  <strong>🛠 Digital Modernization for Gov & Local Biz</strong><br/>
+  <em>Veteran Owned · Chula Vista, CA · South Bay's Local Tech Partner</em>
+</p>
 
-### **📋 Company Overview**
+---
 
-* **Structure:** Sole Proprietorship (Minority Owned)  
-* **Certifications:** CA DVBE/SB (Micro) \#2043925, Federal SDVOSB (Verified)  
-* **Location:** Chula Vista, CA (2-hour on-site deployment for South Bay)  
-* **UEI:** KVQQGFE9NZS9 | **CAGE:** \[Pending\]
+South Bay IT Solutions (SBITS) is a Service-Disabled Veteran-Owned Small Business (SDVOSB) based in Chula Vista, CA. We bridge the gap between legacy hardware and modern software — built on military-grade discipline and local agility.
 
-### **🚀 Core Capabilities**
+---
 
-* **IT Asset Management:** Full lifecycle from procurement and imaging to DoD-standard decommissioning.  
-* **Digital Transformation:** Custom AI-integrated dashboards (PowerBI/Looker) and administrative workflow automation.  
-* **"Digital Janitorial":** Large-scale file organization, PDF 508 remediation, and legacy data migration.  
-* **Web Ecosystems:** High-performance PHP MVC platforms with integrated CRM and Lead Management.
+## 📋 Company Overview
 
-### **💻 Tech Stack**
+| Field | Details |
+|---|---|
+| **Structure** | Sole Proprietorship (Minority Owned) |
+| **Certifications** | CA DVBE/SB (Micro) #2043925 · Federal SDVOSB (Verified) |
+| **Location** | Chula Vista, CA — 2-hour on-site deployment for South Bay |
+| **UEI** | KVQQGFE9NZS9 |
+| **CAGE** | Pending |
 
-* **Backend:** PHP 7.4+ MVC, SQLite3  
-* **AI Integration:** OpenClaw AI running on Jetson Orin Nano (Local Inference)  
-* **Frontend:** Tailwind CSS, Matrix-rain aesthetics, AJAX-driven Lead Pipeline  
-* **Infrastructure:** Cloudflare Tunnels for secure local-to-cloud SSH access
+---
 
-### **📦 Procurement Codes**
+## 🚀 Core Capabilities
 
-* **NAICS (Primary):** 541519 (Other Computer Related Services)  
-* **NAICS (Merchant):** 423430 (Computer Merchant Wholesaler)  
-* **UNSPSC:** 81111800, 81112300, 43211500 (Computers)
+**IT Asset Management**
+Full lifecycle management — procurement, imaging, and DoD-standard decommissioning.
 
-### **📞 Contact Information**
+**Digital Transformation**
+Custom AI-integrated dashboards (PowerBI / Looker) and administrative workflow automation.
 
-* **Owner:** Lalo Morales  
-* **Email:** lalo@southbayitsolutions.com  
-* **Web:** [southbayitsolutions.com](https://www.southbayitsolutions.com)  
-* **Phone:** 619-537-8482‬
+**"Digital Janitorial" Services**
+Large-scale file organization, PDF 508 remediation, and legacy data migration.
 
-*Veteran Owned | Digital Integration | Born & Raised in SD*
+**Web Ecosystems**
+High-performance PHP MVC platforms with integrated CRM and Lead Management.
+
+---
+
+## 💻 Tech Stack
+
+```
+Backend        →  PHP 7.4+ MVC, SQLite3
+AI Integration →  Local inference via Jetson Orin Nano
+Frontend       →  Tailwind CSS, AJAX-driven Lead Pipeline
+Infrastructure →  Cloudflare Tunnels · Secure local-to-cloud SSH
+```
+
+---
+
+## 📦 Procurement Codes
+
+| Code Type | Code | Description |
+|---|---|---|
+| NAICS (Primary) | 541519 | Other Computer Related Services |
+| NAICS (Merchant) | 423430 | Computer Merchant Wholesaler |
+| UNSPSC | 81111800 | IT Services |
+| UNSPSC | 81112300 | IT Support |
+| UNSPSC | 43211500 | Computers |
+
+---
+
+## 📞 Contact
+
+**Owner:** Lalo Morales
+**Email:** lalo@southbayitsolutions.com
+**Web:** [southbayitsolutions.com](https://www.southbayitsolutions.com)
+**Phone:** 619-537-8482
+
+---
+
+<p align="center">
+  <em>Veteran Owned · Digital Integration · Born & Raised in SD 🇺🇸</em>
+</p>
