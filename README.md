@@ -1,8 +1,7 @@
-# **SOUTH BAY**
+⚡ SOUTH BAY IT SOLUTIONS
 
-# **IT SOLUTIONS**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SOUTH+BAY+IT+SOLUTIONS;DIGITAL+MODERNIZATION;VETERAN+OWNED+%26+OPERATED" alt="SBITS Typing Header" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DSOUTH%2BBAY%2BIT%2BSOLUTIONS%3BDIGITAL%2BMODERNIZATION%3BVETERAN%2BOWNED%2B%2526%2BOPERATED" alt="SBITS Typing Header" />
 </p>
 ```text
  ██████╗ ██████╗ ██╗████████╗███████╗
@@ -12,10 +11,10 @@
 ███████║ ██████╔╝██║   ██║   ███████║
 ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   ╚══════╝
 ```
-      
-## **🛠 Digital Modernization for Gov & Local Biz**
 
-South Bay IT Solutions (SBITS) is a **Service-Disabled Veteran-Owned Small Business (SDVOSB)** based in Chula Vista, CA. We bridge the gap between "legacy hardware" and "modern software" through military-grade discipline and local agility.
+🛠 Digital Modernization for Gov & Local Biz
+
+South Bay IT Solutions (SBITS) is a Service-Disabled Veteran-Owned Small Business (SDVOSB) based in Chula Vista, CA. We bridge the gap between legacy hardware and modern software through military-grade discipline and local agility.
 
 ### **📋 Company Overview**
 
