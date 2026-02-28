@@ -20,7 +20,9 @@
 
 ---
 
-South Bay IT Solutions (SBITS) is a Service-Disabled Veteran-Owned Small Business (SDVOSB) based in Chula Vista, CA. We bridge the gap between legacy hardware and modern software — built on military-grade discipline and local agility.
+South Bay IT Solutions (SBITS) is a Service-Disabled Veteran-Owned Small Business (SDVOSB) based in Chula Vista, CA. We bridge the gap between legacy hardware and modern software — built on military-grade discipline and local agility. 
+
+**Personal Github:** [github.com/lalomorales22](https://www.github.com/lalomorales22)
 
 ---
 
